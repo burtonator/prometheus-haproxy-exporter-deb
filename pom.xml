@@ -7,7 +7,7 @@
 
     <groupId>prometheus-haproxy-exporter</groupId>
     <artifactId>prometheus-haproxy-exporter</artifactId>
-    <version>0.8.0-1</version>
+    <version>0.8.0-2</version>
 
     <dependencies>
 

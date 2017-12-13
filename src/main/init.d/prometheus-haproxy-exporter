@@ -31,7 +31,7 @@ DESC="prometheus-haproxy-exporter"
 NAME="prometheus-haproxy-exporter"
 
 # Path to the service executable, e.g. /usr/bin/java
-DAEMON="/usr/share/prometheus-haproxy-exporter/bin/haproxy_exporter"
+DAEMON="/usr/share/prometheus-haproxy-exporter/haproxy_exporter"
 
 # Arguments passed to the service startup
 DAEMON_ARGS=""
